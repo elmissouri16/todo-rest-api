@@ -28,11 +28,11 @@
     previews = {
       enable = false;
       previews = {
+       
         web = {
-          command = [
-            "air"
-          ];
-          manager = "web";
+          
+         
+         
         };
       };
     };
